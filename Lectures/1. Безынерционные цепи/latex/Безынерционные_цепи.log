@@ -1,16 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.13)  27 AUG 2025 22:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.13)  12 SEP 2025 23:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/sazhnev/Main/Obsidian/Add_course_rt/noise.tex
-(/home/sazhnev/Main/Obsidian/Add_course_rt/noise.tex
+**"/home/sazhnev/Main/Obsidian/Add_course_rt/Lectures/1. Р‘РµР·С‹РЅРµСЂС†РёРѕРЅРЅС‹Рµ С†РµРїРё/latex/Р‘РµР·С‹РЅРµСЂС†РёРѕРЅРЅС‹Рµ_С†РµРїРё.tex"
+(/home/sazhnev/Main/Obsidian/Add_course_rt/Lectures/1. Р‘РµР·С‹РЅРµСЂС†РёРѕРЅРЅС‹Рµ С†РµРїРё/latex/Р‘РµР·С‹РЅРµСЂС†РёРѕРЅРЅС‹Рµ_С†РµРїРё.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
 \c@section=\count276
@@ -27,34 +27,9 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
-\babel@savecnt=\count283
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2045.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2047.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2049.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2050.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2051.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2053.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2078.
-\U@D=\dimen149
-\l@unhyphenated=\language90
- (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@readstream=\read2
-\bbl@dirlevel=\count284
- (/usr/local/texlive/2025/texmf-dist/tex/generic/babel-russian/russianb.ldf
-File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
-Language: russian 2020/09/09 1.3k Russian support for the Babel system
- (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
-Package babel Info: Importing font and identification data for russian
-(babel)             from babel-ru.ini. Reported on input line 12.
-)
-
-Package babel Warning: No Cyrillic font encoding has been loaded so far.
-(babel)                A font encoding should be declared before babel.
-(babel)                Default `T2A' encoding will be loaded  on input line 78.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2aenc.def
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2aenc.def
 File: t2aenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
@@ -259,6 +234,31 @@ File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
 ))
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 116.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count283
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2045.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2047.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2049.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2050.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2051.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2053.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2078.
+\U@D=\dimen149
+\l@unhyphenated=\language90
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count284
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
+Package babel Info: Importing font and identification data for russian
+(babel)             from babel-ru.ini. Reported on input line 12.
+)
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
 )) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
@@ -352,113 +352,62 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen159
 \Gin@req@width=\dimen160
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2024/12/12 v1.0g TeX engine tests
-))
-\Gm@cnth=\count297
-\Gm@cntv=\count298
-\c@Gm@tempcnt=\count299
-\Gm@bindingoffset=\dimen161
-\Gm@wd@mp=\dimen162
-\Gm@odd@mp=\dimen163
-\Gm@even@mp=\dimen164
-\Gm@layoutwidth=\dimen165
-\Gm@layoutheight=\dimen166
-\Gm@layouthoffset=\dimen167
-\Gm@layoutvoffset=\dimen168
-\Gm@dimlist=\toks25
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/physics/physics.sty
+Package: physics 
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-07-20 L3 programming layer (loader) 
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count300
-) (./noise.aux
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 5.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
+\l__color_backend_stack_int=\count297
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)) (./Р‘РµР·С‹РЅРµСЂС†РёРѕРЅРЅС‹Рµ_С†РµРїРё.aux
 Package babel Info: 'russian' activates 'russian' shorthands.
 (babel)             Reported on input line 5.
 )
-\openout1 = `noise.aux'.
+\openout1 = `Р‘РµР·С‹РЅРµСЂС†РёРѕРЅРЅС‹Рµ_С†РµРїРё.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Info: Redefining \th on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Info: Redefining \th on input line 10.
  (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count301
-\scratchdimen=\dimen169
+\scratchcounter=\count298
+\scratchdimen=\dimen161
 \scratchbox=\box55
-\nofMPsegments=\count302
-\nofMParguments=\count303
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count304
-\MPscratchDim=\dimen170
-\MPnumerator=\count305
-\makeMPintoPDFobject=\count306
-\everyMPtoPDFconversion=\toks27
+\nofMPsegments=\count299
+\nofMParguments=\count300
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen162
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
+\everyMPtoPDFconversion=\toks26
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23582pt, 56.90552pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=483.69684pt
-* \textheight=731.23582pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=35.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -466,45 +415,189 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
-Overfull \hbox (5.18091pt too wide) in paragraph at lines 79--80
-\T2A/cmr/m/n/12 Теперь по-го-во-рим об ос-нов-ном объ-ек-те на-ше-го ис-сле-до-ва-ния. \T2A/cmr/bx/n/12 Слу-чай-ный про-цесс $\OML/cmm/m/it/12 X\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t; !\OT1/cmr/m/n/12 )$
- []
+<Images/Metod_lonturnih_tokov.jpg, id=15, 1587.9325pt x 1186.4325pt>
+File: Images/Metod_lonturnih_tokov.jpg Graphic file (type jpg)
+<use Images/Metod_lonturnih_tokov.jpg>
+Package pdftex.def Info: Images/Metod_lonturnih_tokov.jpg  used on input line 66.
+(pdftex.def)             Requested size: 310.4979pt x 231.97798pt.
 
-<generators.png, id=17, 2055.68pt x 2055.68pt>
-File: generators.png Graphic file (type png)
-<use generators.png>
-Package pdftex.def Info: generators.png  used on input line 91.
-(pdftex.def)             Requested size: 290.22105pt x 290.20851pt.
+
+[2 <./Images/Metod_lonturnih_tokov.jpg>]
+
+[3]
+<Images/Capture_20250906_005642.jpg, id=24, 1104.125pt x 943.525pt>
+File: Images/Capture_20250906_005642.jpg Graphic file (type jpg)
+<use Images/Capture_20250906_005642.jpg>
+Package pdftex.def Info: Images/Capture_20250906_005642.jpg  used on input line 141.
+(pdftex.def)             Requested size: 172.5pt x 147.39662pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Images/ideal_sources.jpg, id=25, 1448.41125pt x 1337.99875pt>
+File: Images/ideal_sources.jpg Graphic file (type jpg)
+<use Images/ideal_sources.jpg>
+Package pdftex.def Info: Images/ideal_sources.jpg  used on input line 157.
+(pdftex.def)             Requested size: 137.9979pt x 127.45827pt.
+
+
+[4]
+
+[5 <./Images/Capture_20250906_005642.jpg> <./Images/ideal_sources.jpg>]
+<Images/real_source.jpg, id=32, 2002.48125pt x 1578.89874pt>
+File: Images/real_source.jpg Graphic file (type jpg)
+<use Images/real_source.jpg>
+Package pdftex.def Info: Images/real_source.jpg  used on input line 173.
+(pdftex.def)             Requested size: 172.5pt x 135.99947pt.
+
+
+[6 <./Images/real_source.jpg>]
+<Images/tevenin_i_norton.jpg, id=36, 1903.11pt x 1087.06125pt>
+File: Images/tevenin_i_norton.jpg Graphic file (type jpg)
+<use Images/tevenin_i_norton.jpg>
+Package pdftex.def Info: Images/tevenin_i_norton.jpg  used on input line 190.
+(pdftex.def)             Requested size: 310.4979pt x 177.35031pt.
+
+
+[7 <./Images/tevenin_i_norton.jpg>]
+<Images/delitel_1.jpg, id=42, 1045.9075pt x 1290.8225pt>
+File: Images/delitel_1.jpg Graphic file (type jpg)
+<use Images/delitel_1.jpg>
+Package pdftex.def Info: Images/delitel_1.jpg  used on input line 216.
+(pdftex.def)             Requested size: 137.9979pt x 170.31424pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Images/delitel_2.jpg, id=43, 1017.8025pt x 757.83125pt>
+File: Images/delitel_2.jpg Graphic file (type jpg)
+<use Images/delitel_2.jpg>
+Package pdftex.def Info: Images/delitel_2.jpg  used on input line 234.
+(pdftex.def)             Requested size: 207.0021pt x 154.11911pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[2]
+[8]
+<Images/summator_1.png, id=49, 1146.2825pt x 278.03876pt>
+File: Images/summator_1.png Graphic file (type png)
+<use Images/summator_1.png>
+Package pdftex.def Info: Images/summator_1.png  used on input line 243.
+(pdftex.def)             Requested size: 345.0pt x 83.68378pt.
 
-[3 <./generators.png (PNG copy)>]
 
-[4]
+[9 <./Images/delitel_1.jpg> <./Images/delitel_2.jpg>]
 
-[5] (./noise.aux)
+[10 <./Images/summator_1.png>]
+<Images/3_polus.jpg, id=59, 1993.4475pt x 1421.31pt>
+File: Images/3_polus.jpg Graphic file (type jpg)
+<use Images/3_polus.jpg>
+Package pdftex.def Info: Images/3_polus.jpg  used on input line 271.
+(pdftex.def)             Requested size: 137.9979pt x 98.37411pt.
+<Images/ploskosti.jpg, id=60, 1422.31375pt x 753.81625pt>
+File: Images/ploskosti.jpg Graphic file (type jpg)
+<use Images/ploskosti.jpg>
+Package pdftex.def Info: Images/ploskosti.jpg  used on input line 286.
+(pdftex.def)             Requested size: 310.4979pt x 164.56332pt.
+
+
+[11 <./Images/3_polus.jpg>]
+Overfull \hbox (20.32037pt too wide) in paragraph at lines 300--302
+\T2A/cmr/m/n/10 редь за-да-ют-ся дву-мя чет-ры-рех-мер-ны-ми век-то-ра-ми нор-ма-ли: $[] \OT1/cmr/m/n/10 = (\OML/cmm/m/it/10 []; ^^L[]; ^^M[]; ^^N[]\OT1/cmr/m/n/10 )$\T2A/cmr/m/n/10 ,
+ []
+
+
+
+[12 <./Images/ploskosti.jpg>]
+<Images/h_parameters.png, id=67, 469.755pt x 255.95625pt>
+File: Images/h_parameters.png Graphic file (type png)
+<use Images/h_parameters.png>
+Package pdftex.def Info: Images/h_parameters.png  used on input line 363.
+(pdftex.def)             Requested size: 310.4979pt x 169.1816pt.
+
+
+[13 <./Images/h_parameters.png>]
+<Images/T_scheme_0.png, id=73, 362.35374pt x 200.75pt>
+File: Images/T_scheme_0.png Graphic file (type png)
+<use Images/T_scheme_0.png>
+Package pdftex.def Info: Images/T_scheme_0.png  used on input line 378.
+(pdftex.def)             Requested size: 207.0021pt x 114.68292pt.
+<Images/T_scheme.jpg, id=74, 1642.135pt x 1085.05376pt>
+File: Images/T_scheme.jpg Graphic file (type jpg)
+<use Images/T_scheme.jpg>
+Package pdftex.def Info: Images/T_scheme.jpg  used on input line 396.
+(pdftex.def)             Requested size: 241.49895pt x 159.57217pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Images/T_scheme_2.jpg, id=75, 1414.28375pt x 880.28876pt>
+File: Images/T_scheme_2.jpg Graphic file (type jpg)
+<use Images/T_scheme_2.jpg>
+Package pdftex.def Info: Images/T_scheme_2.jpg  used on input line 415.
+(pdftex.def)             Requested size: 241.49895pt x 150.30528pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[14 <./Images/T_scheme_0.png>]
+
+[15 <./Images/T_scheme.jpg> <./Images/T_scheme_2.jpg>]
+<Images/X_and_Y.jpg, id=83, 2422.04875pt x 989.6975pt>
+File: Images/X_and_Y.jpg Graphic file (type jpg)
+<use Images/X_and_Y.jpg>
+Package pdftex.def Info: Images/X_and_Y.jpg  used on input line 463.
+(pdftex.def)             Requested size: 345.0pt x 140.97295pt.
+
+Overfull \hbox (3.66486pt too wide) in paragraph at lines 459--469
+\T2A/cmr/m/n/10 люс-ни-ку мат-ри-ца Y-параметров яв-ля-ет-ся об-рат-ной к мат-ри-це X-параметров. 
+ []
+
+<Images/Star_triangle.png, id=84, 649.42625pt x 207.77625pt>
+File: Images/Star_triangle.png Graphic file (type png)
+<use Images/Star_triangle.png>
+Package pdftex.def Info: Images/Star_triangle.png  used on input line 485.
+(pdftex.def)             Requested size: 276.00105pt x 88.30531pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[16 <./Images/X_and_Y.jpg>]
+
+[17 <./Images/Star_triangle.png>]
+Overfull \hbox (25.18143pt too wide) detected at line 559
+\OML/cmm/m/it/10 X[] \OT1/cmr/m/n/10 = [] [][] = []
+ []
+
+
+Overfull \hbox (11.35345pt too wide) in paragraph at lines 559--563
+\T2A/cmr/m/n/10 Заметим в дух мат-ри-цах со-от-вет-стве-ие эле-мен-тов: $\OML/cmm/m/it/10 R[] \OMS/cmsy/m/n/10 ! \OML/cmm/m/it/10 G[]\OT1/cmr/m/n/10 ;  \OML/cmm/m/it/10 R[] \OMS/cmsy/m/n/10 ! \OML/cmm/m/it/10 G[]\OT1/cmr/m/n/10 ;  \OML/cmm/m/it/10 R[] \OMS/cmsy/m/n/10 !
+ []
+
+
+
+[18] (./Р‘РµР·С‹РЅРµСЂС†РёРѕРЅРЅС‹Рµ_С†РµРїРё.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4849 strings out of 467801
- 71652 string characters out of 5431916
- 492932 words of memory out of 5000000
- 33447 multiletter control sequences out of 15000+600000
- 637946 words of font info for 66 fonts, out of 8000000 for 9000
+ 5255 strings out of 467801
+ 80921 string characters out of 5431916
+ 489611 words of memory out of 5000000
+ 33857 multiletter control sequences out of 15000+600000
+ 634994 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,1082b,243s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on noise.pdf (5 pages, 4433721 bytes).
+ 73i,10n,77p,1394b,246s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on Р‘РµР·С‹РЅРµСЂС†РёРѕРЅРЅС‹Рµ_С†РµРїРё.pdf (18 pages, 1622156 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 159 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
