@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1757709136.31548 "/home/sazhnev/Main/Obsidian/Add_course_rt/Lectures/1. Безынерционные цепи/latex/Безынерционные_цепи.tex" "Безынерционные_цепи.pdf" "Безынерционные_цепи" 1757709137.00642 0
+["pdflatex"] 1758273091.14352 "/home/sazhnev/Main/Obsidian/Add_course_rt/Lectures/1. Безынерционные цепи/latex/Безынерционные_цепи.tex" "Безынерционные_цепи.pdf" "Безынерционные_цепи" 1758273091.69156 0
   "/home/sazhnev/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1757706423.15253 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
   "/home/sazhnev/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1755119448.87836 3308 eee81981029f67083258db36df06e523 ""
   "/home/sazhnev/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1755119446.10562 3304 6a543c07045572737981351171e0505e ""
@@ -8,7 +8,7 @@
   "/home/sazhnev/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm" 1755119435.46086 3220 0e417eaf233b160335902e97259a6c77 ""
   "/home/sazhnev/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm" 1755119440.88262 3240 c2435f2b5cd66d4930bc29b8df87967e ""
   "/home/sazhnev/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1755119443.47278 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
-  "/home/sazhnev/Main/Obsidian/Add_course_rt/Lectures/1. Безынерционные цепи/latex/Безынерционные_цепи.tex" 1757709136.12571 51126 0d700ab1699f65f636007c6e30b665dc ""
+  "/home/sazhnev/Main/Obsidian/Add_course_rt/Lectures/1. Безынерционные цепи/latex/Безынерционные_цепи.tex" 1758273090.98518 51471 c56c8c46247c4886cca416f72a274f1a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1136849721 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -78,7 +78,7 @@
   "Images/T_scheme.jpg" 1757517417.48498 87180 f5aeb722bdb5e9c8771ba7c90670ea36 ""
   "Images/T_scheme_0.png" 1757516139.76683 7798 6527d130bd897c93791a8165e942c845 ""
   "Images/T_scheme_2.jpg" 1757519682.34574 65742 2c68d85f9b616bf5394515ebe6273a52 ""
-  "Images/X_and_Y.jpg" 1757522932.58716 175570 44a6d410ffa7b3663d8b6865055715c8 ""
+  "Images/X_and_Y.jpg" 1758272489.91812 189529 626f020781b397fdbfc4d0fbf2c50389 ""
   "Images/delitel_1.jpg" 1757612900.50375 93806 5c813dd1ce82f1b7ee8c30d23ad3d126 ""
   "Images/delitel_2.jpg" 1757663385.64764 57035 9644d4aafc8bf0c565af45885abc7bad ""
   "Images/h_parameters.png" 1757514294.80432 22183 42791d818b407b695cfab5d3635c1f6d ""
@@ -87,8 +87,8 @@
   "Images/real_source.jpg" 1757407015.40558 146351 eca061966aaad9233df197bf322dd66b ""
   "Images/summator_1.png" 1757664486.37333 47694 0277de17635c2e5ba03ad9ca43c4339a ""
   "Images/tevenin_i_norton.jpg" 1757407919.53482 100441 70db58a10ffd56333a2a81bec9a78330 ""
-  "Безынерционные_цепи.aux" 1757709136.92871 3408 1614ab910b5134ed58f3159b5c6f900d "pdflatex"
-  "Безынерционные_цепи.tex" 1757709136.12571 51126 0d700ab1699f65f636007c6e30b665dc ""
+  "Безынерционные_цепи.aux" 1758273091.63069 3408 0db862e062917ca5e064b6b0934b4337 "pdflatex"
+  "Безынерционные_цепи.tex" 1758273090.98518 51471 c56c8c46247c4886cca416f72a274f1a ""
   (generated)
   "Безынерционные_цепи.aux"
   "Безынерционные_цепи.log"
